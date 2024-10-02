@@ -1,0 +1,9 @@
+hsp = 0
+vsp = 0
+movespeed = 3
+grv = 0
+dir = 1
+ground = 1
+state = "move"
+deadspr = spr_solid
+movespr = spr_solid
